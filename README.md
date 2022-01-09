@@ -4,9 +4,9 @@
 
 </h1>
 
-<p align="center">Projeto Biscoito da Sorte com ReactJs</p>
+<p align="center">Projeto Filmaria by Jhenifer Christ com ReactJs, Router</p>
 
-<p align="center"><i>"O futuro depende dos passos que você começa a dar hoje! Um por um, você chegará longe."</i> </p>
+<p align="center"><i>"A persistência é o caminho do êxito."</i> </p>
 
 
 <p align="center">
@@ -29,7 +29,7 @@ Concluded ✔
 - [x] Salvar os favoritos
 - [x] Excluir da lista de favoritos
 - [x] Assistir o Trailer através do Youtube
-- [ ] Ver detalhes
+- [x] Ver detalhes
 
 ## :handshake: **Contribuição**
 
