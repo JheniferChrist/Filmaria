@@ -44,6 +44,6 @@ Todos os tipos de contribuições são muito bem-vindos!
 ## :art: **Sobre a Desenvolvedora**
 
 Feito com muito ♥ by Jhenifer Christ :wave: [Get in touch!](https://www.linkedin.com/in/jjheniferchrist/)
-Meus agradecimentos especiais ao Matheus Fraga pelo curso! O cara é fera demaaaaais, obrigada por me ajudar a chegar cada vez mais próximo do meu objetivo!
+Meus agradecimentos especiais ao Matheus Fraga (https://github.com/devfraga) pelo curso! O cara é fera demaaaaais, obrigada por me ajudar a chegar cada vez mais próximo do meu objetivo!
 
 É isso pessoal, até breve =)
