@@ -1,0 +1,46 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 10px;
+ 
+}
+
+h1{
+    font-size: 50px;
+    padding: 80px;
+}
+
+h2{
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+
+
+.conteiner-link{
+    flex-direction: column;
+}
+
+.botao{
+    margin-right: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    border: 0;
+    border: 5px;
+    font-size: 20px;
+    outline: none;
+    padding: 12px;
+    transition: all 0.5s;
+    background-color: brown;
+    max-width: 200px;
+    border-radius: 5px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.botao:hover{
+
+    color:#000;
+}

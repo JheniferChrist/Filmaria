@@ -1,0 +1,50 @@
+#meus-filmes{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
+ul{
+    padding: 0;
+}
+
+h1{
+    font-size: 35px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+
+ul li{
+    padding: 0;
+    text-decoration: none;
+    min-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+span{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+
+}
+button{
+    margin-left: 10px;
+
+}
+
+ul li div a{
+    text-decoration: none;
+    color: brown;
+}
+
